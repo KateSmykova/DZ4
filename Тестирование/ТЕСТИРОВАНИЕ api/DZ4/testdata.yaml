@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+username: Fedorddd
+password: 67c90628fa
+bad_login: test
+name: Dobronravovi Fedori
+email: test@mail.ru
+content: Test information
